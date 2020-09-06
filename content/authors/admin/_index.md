@@ -1,75 +1,50 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Kevin Rue
+role: Ph.D. in Computational Infection Biology
+avatar_filename: kennedy.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: University of Oxford
+    url: ""
+superuser: true
+authors:
+  - admin
+bio: My research interests include computational biology, infectious diseases,
+  single-cell genomics, and software engineering.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Computational Biology
+  - Bioinformatics
+  - Software Engineering
+  - Continuous Integration
+  - Genomics
+  - Single-cell
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/KevinRUE67
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=JV0DWBQAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kevinrue
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Computational Infection Biology
+      institution: University College Dublin
+      year: 2015
+    - course: Dipl. Ing.
+      institution: " Polytech Nice Sophia - Université Côte d'Azur"
+      year: 2010
+email: kevinrue67@gmail.com
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+Kevin Rue is a computational biologist at the [University of Oxford](http://www.ox.ac.uk/).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research interests in computational biology include software engineering best practices, DevOps, single-cell genomics, and interactive data visualization. He particularly enjoys using and contributing R packages part of the [Bioconductor project](https://www.bioconductor.org/). A list of software packages that he maintain or contributed to is available on [here](https://kevinrue.github.io/software/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research primarily explores the host immune response to infectious diseases, inflammation, and self-antigens.
